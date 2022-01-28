@@ -17,8 +17,8 @@ header{
     width: 150px;
     /* border: 2px solid black; */
     float: left;
-    background-image: url('/MY\ PHOTO.jpeg');
-    background-size: 150px 200px;
+    /* background-image: url('/MY\ PHOTO.jpeg');
+    background-size: 150px 200px; */
 
 }
 #About{
