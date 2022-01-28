@@ -4,7 +4,9 @@ body{
 header{
     height: 60px;
     /* border: 2px solid black; */
-    background-color: crimson;
+    /* background-color: crimson; */
+    background-image: url('adrien-olichon-ilVYjf0J378-unsplash.jpg');
+    background-size: 150px 200px;
     text-align: center;
     color: beige;
     font-size:large;
@@ -24,7 +26,9 @@ header{
 #About{
     height : 200px;
     /* border: 2px solid black; */
-    background-color: black;
+    /* background-color: black; */
+    background-image: url('adrien-olichon-ilVYjf0J378-unsplash.jpg');
+    background-size: 150px 200px;
     
     color: beige;
     font-style: oblique;
@@ -33,13 +37,29 @@ header{
 }
 #TITLE{
     color: cadetblue;
-    text-align: center;
+    font-size: larger;
+    
+
+    /* text-align: center; */
     /* background-color: rgb(202, 11, 11); */
+}
+#HEADING
+{
+    margin-top: 4%;
+    /* margin-left: 5%;
+    margin-right: 50%; */
+    color: cadetblue;
+    font-size: larger;
+
+    
 }
 #skills{
     height : 130px;
     /* border: 2px solid black; */
-    background-color: crimson;
+    /* background-color: crimson; */
+    background-image: url('adrien-olichon-ilVYjf0J378-unsplash.jpg');
+    background-size: 150px 200px;
+
 
 
 
@@ -57,9 +77,12 @@ a{
 #map{
     height : 400px;
     /* border: 2px solid black; */
+    background-image: url('adrien-olichon-ilVYjf0J378-unsplash.jpg');
+    background-size: 150px 200px;
 
 }
 footer{
 height: 80px;
-/* border: 2px solid black; */
+border: 2px solid black; 
+
 }
