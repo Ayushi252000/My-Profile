@@ -1,0 +1,205 @@
+body{
+    margin: auto;
+}
+#mainDiv{
+    background-color: black;
+     /* background-image: url('p1.jpg');  */
+    width: 100%;
+    height: 700px;
+}
+#sidebar{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 12%;
+    /* border: 2px solid palevioletred; */
+    height: 600px;
+    width:7%;
+    float: left;
+    color:#4c4c4ce0 ;
+    
+}
+
+   
+#portfolio{
+    /* background-color: aqua; */
+    width: 500%;
+     transform: rotate(270deg); 
+    font-size: 8ch;
+    /* background-color: aqua; */
+    margin-left:-198%;
+    margin-top: 208%;
+    color: #4c4c4ce0;
+}
+#photo{
+    height: 650px;
+    width:20%;
+    /* border: 2px solid red; */
+    float: left;
+    position: absolute;
+    margin-top: 2%; 
+    margin-left: 19%;
+    /* background-image: url('PBG.jpg'); */
+    background-size: 100% 650px;
+    background-repeat: no-repeat;
+    
+
+}
+#photo>img{
+    position: absolute;
+    margin-top: 50%;
+    height: 260px;
+    width:80%;
+    margin-left: 11%;
+}
+#name{
+    /* color: white; */
+    margin-top: 137%;
+    margin-left: 33%;
+    color:#4c4c4ce0 ;
+    font-size: 18;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+#dev{
+    margin-top: 1%;
+    margin-left: 22%;
+    color: #230f0cf5;
+    font-weight: bold;
+    font-size: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+
+
+}
+#social {
+    height: 32px;
+    width:67%;
+    margin-top: 5%;
+    margin-left: 17%;
+    /* border: 2px solid red; */
+    
+}
+#LastBar{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 39%;
+     /* border: 2px solid palevioletred;  */
+    height: 600px;
+    width:34%;
+    float: left;
+     background-image: url('BG2.jpg');
+    background-size: 100% 600px; 
+    background-repeat: no-repeat; 
+
+}
+ #About{
+    margin-left: 2%;
+    font-weight: bold;
+    color: #4c4c4ce0;
+    font-size:x-large;
+    
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+} 
+#slash{
+    color: #230f0cf5;
+    margin-top: 2%;
+    font-weight: bolder;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 2%;
+}
+#para{
+    /* border: 2px solid aqua; */
+    /* color: aliceblue; */
+    color :#4c4c4ce0;
+    margin-top: 2%;
+    font-size: larger;
+    margin-left: 2%;
+
+}
+#skills{
+    margin-top: 7%;
+    /* border:2px solid rebeccapurple; */
+    margin-left: 2%;
+    font-weight: bold;
+    color: #4c4c4ce0;
+    font-size:x-large;
+}
+#MyServices{
+    width:95%;
+    /* border: 2px solid aqua; */
+    height: 112px;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.title{
+    width:13%;
+    height:72px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 1%;
+    background-color:#c1c1c114 ;
+    border: 2px solid  #230f0cf5;
+    /* box-shadow:#230f0cf5; */
+
+}
+
+.title>img{
+    width:113%;
+    height:62px;
+    margin-top: 7%;
+    margin-right: -12%;
+}
+#RMB{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 74%;
+     /* border: 2px solid palevioletred;  */
+    height: 650px;
+    width:26%;
+    float: left;
+     /* background-image: url('BG2.jpg');
+    background-size: 100% 600px; 
+    background-repeat: no-repeat;  */
+    /* background-color: whitesmoke; */
+}
+#projects {
+    margin-left: 2%;
+    font-weight: bold;
+    color: #4c4c4ce0;
+    font-size:x-large;
+    margin-top: 0%;
+
+
+}
+
+
+#EXP{
+    margin-left: 2%;
+    font-weight: bold;
+    color: #4c4c4ce0;
+    font-size:x-large;
+}
+.details{
+    color:#230f0cf5 ;
+    /* font-weight: bold; */
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pt{
+    width:48%;
+    height:182px;
+     /* border: 2px solid red;  */
+    float: left;
+    margin-left: 1%;
+    /* background-color:#c1c1c114 ;
+    border: 2px solid  #230f0cf5; 
+    /* box-shadow:#230f0cf5; */
+    border: 2px solid  #230f0cf5;
+}
+.pt>img{
+    width:100%;
+    height:156px;
+}
