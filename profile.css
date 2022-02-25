@@ -223,3 +223,8 @@ body{
     background-color:  #230f0cf5;
     border:#230f0cf5;
 }
+ footer{
+    background-color: black;
+    color: white;
+    font-size: large;
+} 
